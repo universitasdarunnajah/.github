@@ -1,6 +1,6 @@
 ## Selamat Datang di Universitas Darunnajah 👋
 
-Selamat datang di <strong>GitHub@universitasdarunnajah</strong>! Di [Universitas Darunnajah](https://github.com/universitasdarunnajah), kami percaya bahwa dengan pikiran terbuka, sikap terbuka, dan ilmu terbuka, kita dapat menciptakan solusi yang berdampak positif bagi kita semua. Saat ini, teknologi, data, dan perangkat lunak merupakan pondasi penting dari solusi-solusi ini. GitHub ini adalah tempat kami, staf akademik dan administratif, mengembangkan dan berbagi kode riset, perangkat lunak, dan lainnya. Anda diundang untuk berkontribusi pada proyek-proyek ini dan bergabung untuk menciptakan dunia yang lebih baik.
+Selamat datang di **GitHub@universitasdarunnajah**! Di [Universitas Darunnajah](https://github.com/universitasdarunnajah), kami percaya bahwa dengan pikiran terbuka, sikap terbuka, dan ilmu terbuka, kita dapat menciptakan solusi yang berdampak positif bagi kita semua. Saat ini, teknologi, data, dan perangkat lunak merupakan pondasi penting dari solusi-solusi ini. GitHub ini adalah tempat kami, staf akademik dan administratif, mengembangkan dan berbagi kode riset, perangkat lunak, dan lainnya. Anda diundang untuk berkontribusi pada proyek-proyek ini dan bergabung untuk menciptakan dunia yang lebih baik.
 
 <!--
 
