@@ -1,1 +1,5 @@
-Selamat datang di GitHub@universitasdarunnajah! Di [universitasdarunnajah], kami percaya bahwa dengan pikiran terbuka, sikap terbuka, dan ilmu terbuka, kita dapat menciptakan solusi yang berdampak positif bagi kita semua. Saat ini, teknologi, data, dan perangkat lunak merupakan pondasi penting dari solusi-solusi ini. GitHub ini adalah tempat kami, staf akademik dan administrasi, mengembangkan dan berbagi kode riset, perangkat lunak, dan lainnya. Anda diundang untuk berkontribusi pada proyek-proyek ini dan bergabung untuk menciptakan dunia yang lebih baik.
+## Organization repository of Universitas Darunnajah
+
+This repo defines the look and feel of the organization's account.
+
+See (https://github.com/universitasdarunnajah/.github/tree/main/profile) for the content of the landing page.
